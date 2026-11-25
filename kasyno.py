@@ -1,4 +1,4 @@
-"""Srerminalowe kasyno. Uruchom poleceniem python3 kasyno.py."""
+"""Sdrerminalowe kasyno. Uruchom poleceniem python3 kasyno.py."""
 import random
 from collections import Counter
 from itertools import combinations
